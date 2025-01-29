@@ -1,0 +1,5 @@
+CREATE TABLE songs(
+song_id INTEGER PRIMARY KEY AUTOINCREMENT,
+song_name TEXT NOT NULL,
+song_language TEXT NOT NULL
+);
